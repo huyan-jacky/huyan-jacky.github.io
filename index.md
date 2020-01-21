@@ -13,6 +13,8 @@ HuYan is proposed to make the cooperation in academia transparent and fast with 
 其中最大的困难是：“大佬”们已经若干年不在一线科研，对于实际问题的难度，方案的可行性没有很好的把握。对学生的指导浮于表面，难以起到真正的指导作用。
 其次：“大佬”上面还有“大佬”，层层叠叠，关系复杂，而项目合作双方的学生反而难以得到足够的交流，这种现象在需要学科交叉时尤为严重。
 
+互研的建立就是希望能减少这两个问题带来的影响。
+
 ## Method
 
 建立一个网站，直接推进学生与学生之间的合作。
@@ -29,4 +31,4 @@ HuYan is proposed to make the cooperation in academia transparent and fast with 
 未完待续。
 
 ## Reference
-1. https://www.zhihu.com/question/356327912/answer/901495669 代彬
+1. [如何看待中南大学 92 年特聘教授齐冲冲，3 年博士期间发表 40 篇 SCI？ - feby的回答 - 知乎](https://www.zhihu.com/question/356327912/answer/901495669) 代彬
